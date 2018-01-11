@@ -1,0 +1,13 @@
+{
+    "name": "katekharitonova/bracketed-lib",
+    "description": "Library that parses and validates a line of brackets",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kate Kharitonova",
+            "email": "katekharitonova@corp.badoo.com"
+        }
+    ],
+    "require": {}
+}
